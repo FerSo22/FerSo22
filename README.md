@@ -12,7 +12,7 @@
 
 ## Proyectos
 <table>
-    <tr height="600">
+    <tr height="500">
         <td width="50%" style="display:flex; flex-direction:column;">
             <h3 align="center">CRUD básico con Django<h3>
             <div align="center">
