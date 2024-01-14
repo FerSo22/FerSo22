@@ -8,6 +8,7 @@
 - 💻 Estudiante de Ingeniería de Sistemas
 - 📚 Con mucho entusiasmo por aprender
 - ⭐ Dispuesto a adentrarme en nuevas tecnologías
+<br>
 
 ## Proyectos
 <table>
