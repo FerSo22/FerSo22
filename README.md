@@ -38,7 +38,7 @@
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                     </a>
                 </p>
-                <p>Sistema experto para diagnosticar enfermedades según sus síntomas, codificado en <strong>lenguaje de programación PHP</strong> y mediante una conexión a un <strong>script de SWI-Prolog.</strong> Proyecto básico para entender el funcionamiento de un sistema experto a través de SWI-Prolog.</p>
+                <p>Proyecto básico para entender el funcionamiento de un sistema experto a través de SWI-Prolog, a partir del diagnóstico de enfermedades según sus síntomas, codificado en <strong>lenguaje de programación PHP</strong> y mediante una conexión a un <strong>script de SWI-Prolog.</strong> .</p>
             </div>
         </td>
     </tr>
