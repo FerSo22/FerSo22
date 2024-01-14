@@ -3,7 +3,7 @@
 </div>
 <img src="https://2020.24h24l.org/images/banner-programacion.jpg"> 
 
-##Sobre mi
+## Sobre mi
 
 - 💻 Estudiante de Ingeniería de Sistemas
 - 📚 Con mucho entusiasmo por aprender
@@ -38,7 +38,7 @@
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                     </a>
                 </p>
-                <p>Proyecto realizado como parte del examen final para la asignatura Lenguaje de Programación III. Se trata de un <strong>CRUD sencillo realizado con el framework Django de Python</strong></p>
+                <p>Proyecto realizado en colaborativo como parte del examen final para la asignatura Lenguaje de Programación III. Se trata de un <strong>CRUD sencillo realizado con el framework Django de Python</strong></p>
             </div>
         </td>
     </tr>
