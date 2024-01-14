@@ -28,6 +28,7 @@
             </div>
         </td>
         <td width="50%" style="display:flex; flex-direction:column;">
+            <br><br>
             <h3 align="center">Sistema Experto con PHP y SWI-Prolog<h3>
             <div align="center">
                 <a href="https://github.com/FerSo22/Sistema-Experto" target="_blank">
