@@ -13,7 +13,7 @@
 ## Proyectos
 <table>
     <tr>
-        <td width="50%" align="center">
+        <td width="50%">
             <h3 align="center">CRUD básico con Django<h3>
             <div align="center">
                 <a href="https://github.com/FerSo22/EF-Parte02---Producto---Fernandez_Estudiante_02-" target="_blank">
@@ -27,7 +27,7 @@
                 <p>Proyecto realizado como parte del examen final para la asignatura Lenguaje de Programación III. Se trata de un <strong>CRUD sencillo realizado con el framework Django de Python</strong></p>
             </div>
         </td>
-        <td width="50%" align="center">
+        <td width="50%">
             <h3 align="center">Sistema Experto con PHP y SWI-Prolog<h3>
             <div align="center">
                 <a href="https://github.com/FerSo22/Sistema-Experto" target="_blank">
