@@ -13,9 +13,9 @@
 ## Proyectos
 <table>
     <tr>
-        <td width="50%">
+        <td width="50%" align="center">
             <h3 align="center">CRUD básico con Django<h3>
-            <div align="top">
+            <div align="start">
                 <a href="https://github.com/FerSo22/EF-Parte02---Producto---Fernandez_Estudiante_02-" target="_blank">
                     <img src="https://img-c.udemycdn.com/course/750x422/4249002_fc19.jpg" width="250" alt="Django CRUD">
                 </a>
@@ -27,10 +27,9 @@
                 <p>Proyecto realizado como parte del examen final para la asignatura Lenguaje de Programación III. Se trata de un <strong>CRUD sencillo realizado con el framework Django de Python</strong></p>
             </div>
         </td>
-        <td width="50%">
-            <br>
+        <td width="50%" align="center">
             <h3 align="center">Sistema Experto con PHP y SWI-Prolog<h3>
-            <div align="top">
+            <div align="start">
                 <a href="https://github.com/FerSo22/EF-Parte02---Producto---Fernandez_Estudiante_02-" target="_blank">
                     <img src="https://img.computing.es/wp-content/uploads/2023/06/13142032/IA-redes-neuronales.jpg" width="250" alt="Sistema Experto SWI-Prolog">
                 </a>
