@@ -12,7 +12,7 @@
 
 ## Proyectos
 <table>
-    <tr height="500">
+    <tr>
         <td width="50%">
             <h2 align="center">CRUD básico con Django<h2>
             <div align="center">
