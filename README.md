@@ -24,7 +24,7 @@
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                     </a>
                 </p>
-                <p style="font-size:14">Proyecto realizado como parte del examen final para la asignatura Lenguaje de Programación III. Se trata de un <strong>CRUD sencillo realizado con el framework Django de Python</strong></p>
+                <p style="font-size:14px">Proyecto realizado como parte del examen final para la asignatura Lenguaje de Programación III. Se trata de un <strong>CRUD sencillo realizado con el framework Django de Python</strong></p>
             </div>
         </td>
         <td width="50%"">
@@ -39,7 +39,7 @@
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                     </a>
                 </p>
-                <p style="font-size:14">Proyecto básico para entender el funcionamiento de un sistema experto a través de SWI-Prolog, a partir del diagnóstico de enfermedades según sus síntomas, codificado en <strong>lenguaje de programación PHP</strong> y mediante una conexión a un <strong>script de SWI-Prolog.</strong> .</p>
+                <p style="font-size:14px">Proyecto básico para entender el funcionamiento de un sistema experto a través de SWI-Prolog, a partir del diagnóstico de enfermedades según sus síntomas, codificado en <strong>lenguaje de programación PHP</strong> y mediante una conexión a un <strong>script de SWI-Prolog.</strong> .</p>
             </div>
         </td>
     </tr>
