@@ -17,7 +17,7 @@
             <h3 align="center">CRUD básico con Django<h3>
             <div align="center">
                 <a href="https://github.com/FerSo22/EF-Parte02---Producto---Fernandez_Estudiante_02-" target="_blank">
-                    <img src="https://img-c.udemycdn.com/course/750x422/4249002_fc19.jpg" height="250" alt="Django CRUD">
+                    <img src="https://img-c.udemycdn.com/course/750x422/4249002_fc19.jpg" width="250" alt="Django CRUD">
                 </a>
                 <p>
                     <a href="https://github.com/FerSo22/EF-Parte02---Producto---Fernandez_Estudiante_02-" target="_blank">
@@ -32,7 +32,7 @@
             <h3 align="center">Sistema Experto con PHP y SWI-Prolog<h3>
             <div align="center">
                 <a href="https://github.com/FerSo22/EF-Parte02---Producto---Fernandez_Estudiante_02-" target="_blank">
-                    <img src="https://4.bp.blogspot.com/-XB8Rf0TJ24I/WWeDx7n-pKI/AAAAAAAAAuM/4OfzInIjjOgRbVnrFluShH5ifD4AKn3NACLcBGAs/s320/ZOQC_InteligenciaArtificial.jpg" height="250" alt="Sistema Experto SWI-Prolog">
+                    <img src="https://img.computing.es/wp-content/uploads/2023/06/13142032/IA-redes-neuronales.jpg" width="250" alt="Sistema Experto SWI-Prolog">
                 </a>
                 <p>
                     <a href="https://github.com/FerSo22/EF-Parte02---Producto---Fernandez_Estudiante_02-" target="_blank">
