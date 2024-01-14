@@ -4,7 +4,7 @@
 <img src="https://2020.24h24l.org/images/banner-programacion.jpg"> 
 
 ## Sobre mi
-
+- 🦙 Lima - Perú
 - 💻 Estudiante de Ingeniería de Sistemas
 - 📚 Con mucho entusiasmo por aprender
 - ⭐ Dispuesto a adentrarme en nuevas tecnologías
