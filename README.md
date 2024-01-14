@@ -28,6 +28,7 @@
             </div>
         </td>
         <td width="50%">
+            <br>
             <h3 align="center">Sistema Experto con PHP y SWI-Prolog<h3>
             <div align="center">
                 <a href="https://github.com/FerSo22/EF-Parte02---Producto---Fernandez_Estudiante_02-" target="_blank">
