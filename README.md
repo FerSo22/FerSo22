@@ -28,7 +28,7 @@
             </div>
         </td>
         <td width="50%"">
-            <br><br><br>
+            <br><br>
             <h2 align="center">Sistema Experto con PHP y SWI-Prolog</h2>
             <div align="center">
                 <a href="https://github.com/FerSo22/Sistema-Experto" target="_blank">
