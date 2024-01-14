@@ -34,7 +34,7 @@
                     <img src="https://img.computing.es/wp-content/uploads/2023/06/13142032/IA-redes-neuronales.jpg" width="250" alt="Sistema Experto SWI-Prolog">
                 </a>
                 <p>
-                    <a href="https://github.com/FerSo22/EF-Parte02---Producto---Fernandez_Estudiante_02-" target="_blank">
+                    <a href="https://github.com/FerSo22/Sistema-Experto" target="_blank">
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                     </a>
                 </p>
