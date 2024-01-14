@@ -30,7 +30,7 @@
         <td width="50%" align="center">
             <h3 align="center">Sistema Experto con PHP y SWI-Prolog<h3>
             <div align="center">
-                <a href="https://github.com/FerSo22/EF-Parte02---Producto---Fernandez_Estudiante_02-" target="_blank">
+                <a href="https://github.com/FerSo22/Sistema-Experto" target="_blank">
                     <img src="https://img.computing.es/wp-content/uploads/2023/06/13142032/IA-redes-neuronales.jpg" width="250" alt="Sistema Experto SWI-Prolog">
                 </a>
                 <p>
@@ -38,7 +38,7 @@
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                     </a>
                 </p>
-                <p>Sistema experto para diagnosticar distintas enfermedades según sus síntomas, codificado en <strong>lenguaje de programación PHP</strong> y mediante una conexión a un <strong>script de SWI-Prolog.</strong> Proyecto básico para entender el funcionamiento de un sistema experto a través de SWI-Prolog.</p>
+                <p>Sistema experto para diagnosticar enfermedades según sus síntomas, codificado en <strong>lenguaje de programación PHP</strong> y mediante una conexión a un <strong>script de SWI-Prolog.</strong> Proyecto básico para entender el funcionamiento de un sistema experto a través de SWI-Prolog.</p>
             </div>
         </td>
     </tr>
