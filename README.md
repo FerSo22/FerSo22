@@ -15,6 +15,24 @@
 ## Proyectos
 <table>
     <tr>
+        <td width="100%" colspan="2">
+            <h2 align="center">CRUD básico con Django</h2>
+            <div align="center">
+                <a href="https://github.com/FerSo22/EF-Parte02---Producto---Fernandez_Estudiante_02-" target="_blank">
+                    <img src="https://img-c.udemycdn.com/course/750x422/4249002_fc19.jpg" width="350" alt="Django CRUD">
+                </a>
+                <p>
+                    <a href="https://github.com/FerSo22/EF-Parte02---Producto---Fernandez_Estudiante_02-" target="_blank">
+                        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                    </a>
+                </p>
+                <p>Proyecto realizado como parte del examen final para la asignatura Lenguaje de Programación III. Se trata de un <strong>CRUD sencillo realizado con el framework Django de Python</strong></p>
+            </div>
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
         <td width="50%">
             <h2 align="center">CRUD básico con Django</h2>
             <div align="center">
