@@ -65,7 +65,7 @@
     </tr>
 </table>
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
     <a href="https://github.com/FerSo22">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FerSo22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
