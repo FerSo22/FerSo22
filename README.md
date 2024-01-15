@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center">Hola, soy Paolo</h1>
 </div>
-<img src="https://www.ardiseny.es/wordpress/http://wp.ardiseny.es/wp-content/uploads/2015/03/phpCode.png"> 
+<img src="https://www.ardiseny.es/wordpress/http://wp.ardiseny.es/wp-content/uploads/2015/03/phpCode.png" align="center"> 
 
 ## Sobre mi
 - 🦙 Lima - Perú
