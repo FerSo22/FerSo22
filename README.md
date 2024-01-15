@@ -2,7 +2,7 @@
     <h1 align="center">Hola, soy Paolo</h1>
 </div>
 <div align="center">
-    <img src="https://altruistas.org/wp-content/uploads/2020/05/PHP_Altruistas_ocio_cursos_eventos_Las_Palmas.jpg" align="center">
+    <img src="https://www.startechup.com/wp-content/uploads/code-1076536_1280.jpg" align="center">
 </div>
 
 ## Sobre mi
