@@ -26,7 +26,7 @@
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                     </a>
                 </p>
-                <p>Proyecto realizado como presentación final para la asignatura Análisis y Diseño de Sistemas. Se trata de un <strong>sistema de ventas realizado con PHP y JQuery.</strong> </p>
+                <p>Proyecto realizado como presentación final para la asignatura Análisis y Diseño de Sistemas. Se trata de un <strong>sistema de ventas realizado con PHP y JQuery </strong> para una panadería a la cual se le realizó un <strong>estudio completo para extraer los requerimientos.</strong>. Cabe recalcar que no cuenta con facturación electrónica real, y todos los reportes y boletas que imprime son plantillas hechas a mano.</p>
             </div>
         </td>
     </tr>
