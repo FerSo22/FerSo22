@@ -23,7 +23,7 @@
                 </a>
                 <p>
                     <a href="https://github.com/FerSo22/Proyecto-Delipan" target="_blank">
-                        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                        <img src="https://img.shields.io/badge/CÓDIGO-FBAA9D?style=for-the-badge&logo=github&logoColor=black">
                     </a>
                 </p>
                 <p>Proyecto realizado como presentación final para la asignatura Análisis y Diseño de Sistemas. Se trata de un <strong>sistema de ventas realizado con PHP y JQuery </strong> para una panadería a la cual se le realizó un <strong>estudio completo para extraer los requerimientos.</strong> Cabe recalcar que <strong>no cuenta con facturación electrónica real</strong>, y todos los reportes y boletas que imprime son plantillas hechas a mano.</p>
@@ -41,7 +41,7 @@
                 </a>
                 <p>
                     <a href="https://github.com/FerSo22/EF-Parte02---Producto---Fernandez_Estudiante_02-" target="_blank">
-                        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                        <img src="https://img.shields.io/badge/CÓDIGO-1A6A5C?style=for-the-badge&logo=github&logoColor=black">
                     </a>
                 </p>
                 <p>Proyecto realizado como parte del examen final para la asignatura Lenguaje de Programación III. Se trata de un <strong>CRUD sencillo realizado con el framework Django de Python</strong></p>
@@ -56,7 +56,7 @@
                 </a>
                 <p>
                     <a href="https://github.com/FerSo22/Sistema-Experto" target="_blank">
-                        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                        <img src="https://img.shields.io/badge/C%C3%93DIGO-B7D6DA?style=for-the-badge&logo=github&logoColor=black">
                     </a>
                 </p>
                 <p>Proyecto básico para entender el funcionamiento de un sistema experto a través de SWI-Prolog, a partir del diagnóstico de enfermedades según sus síntomas, codificado en <strong>lenguaje de programación PHP</strong> y mediante una conexión a un <strong>script de SWI-Prolog.</strong> .</p>
