@@ -2,7 +2,7 @@
     <h1 align="center">Hola, soy Paolo</h1>
 </div>
 <div align="center">
-    <img src="https://www.ardiseny.es/wordpress/http://wp.ardiseny.es/wp-content/uploads/2015/03/phpCode.png" align="center" width="450" style="object-fit:cover">
+    <img src="https://www.ardiseny.es/wordpress/http://wp.ardiseny.es/wp-content/uploads/2015/03/phpCode.png" align="center" width="650" height="250" style="object-fit:cover">
 </div>
 
 ## Sobre mi
