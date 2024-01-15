@@ -26,7 +26,7 @@
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                     </a>
                 </p>
-                <p>Proyecto realizado como presentación final para la asignatura Análisis y Diseño de Sistemas. Se trata de un <strong>sistema de ventas realizado con PHP y JQuery </strong> para una panadería a la cual se le realizó un <strong>estudio completo para extraer los requerimientos.</strong>. Cabe recalcar que no cuenta con facturación electrónica real, y todos los reportes y boletas que imprime son plantillas hechas a mano.</p>
+                <p>Proyecto realizado como presentación final para la asignatura Análisis y Diseño de Sistemas. Se trata de un <strong>sistema de ventas realizado con PHP y JQuery </strong> para una panadería a la cual se le realizó un <strong>estudio completo para extraer los requerimientos.</strong> Cabe recalcar que <strong>no cuenta con facturación electrónica real</strong>, y todos los reportes y boletas que imprime son plantillas hechas a mano.</p>
             </div>
         </td>
     </tr>
@@ -65,3 +65,10 @@
     </tr>
 </table>
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+    <a href="https://github.com/FerSo22">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FerSo22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FerSo22&layout=compact&langs_count=8&theme=algolia">
+    </a>
+</p>
