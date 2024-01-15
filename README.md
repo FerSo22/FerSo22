@@ -19,7 +19,7 @@
             <h2 align="center">Sistema de Venta para una panadería</h2>
             <div align="center">
                 <a href="https://github.com/FerSo22/Proyecto-Delipan" target="_blank">
-                    <img src="https://pcsolutionsv.com/wp-content/uploads/2020/04/ecommerce-1706103_640.png" width="350" alt="Sistema de Venta en PHP">
+                    <img src="https://pcsolutionsv.com/wp-content/uploads/2020/04/ecommerce-1706103_640.png" width="250" alt="Sistema de Venta en PHP">
                 </a>
                 <p>
                     <a href="https://github.com/FerSo22/Proyecto-Delipan" target="_blank">
