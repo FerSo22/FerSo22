@@ -2,7 +2,7 @@
     <h1 align="center">Hola, soy Paolo</h1>
 </div>
 <div align="center">
-    <img src="https://www.startechup.com/wp-content/uploads/code-1076536_1280.jpg" align="center">
+    <img src="https://www.startechup.com/wp-content/uploads/code-1076536_1280.jpg" height="400" align="center">
 </div>
 
 ## Sobre mi
