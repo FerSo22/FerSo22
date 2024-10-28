@@ -13,7 +13,7 @@
 <br>
 
 ## Proyectos
-<div align="center">
+<div align="center" style="margin-bottom:20px;">
     <h2 align="center">🛠 EN CONSTRUCCIÓN... 🛠</h2>
 </div>
 
