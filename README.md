@@ -13,7 +13,9 @@
 <br>
 
 ## Proyectos
-🛠 EN CONSTRUCCIÓN... 🛠
+<div align="center">
+    <h2 align="center">🛠 EN CONSTRUCCIÓN... 🛠</h2>
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
